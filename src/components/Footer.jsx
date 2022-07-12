@@ -26,13 +26,13 @@ function Footer({ data }) {
                                     <p class="text">{data ? data.address : 'loading'}</p>
                                     <ul class="social">
                                         <li>
-                                            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgoogle.com"><i class="lni lni-facebook"></i></a>
+                                            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fshivamkumarsah.github.io/AI-Netra-Website"><i class="lni lni-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href="http://twitter.com/share?text=I am happy to share this amazing app with the world&url=http://url goes here&hashtags=objectdetection,MachineLearning,ArtificialIntelligence,Android"><i class="lni lni-twitter"></i></a>
+                                            <a href="http://twitter.com/share?text=I am happy to share this amazing app with the world&url=https://shivamkumarsah.github.io/AI-Netra-Website/&hashtags=objectdetection,MachineLearning,ArtificialIntelligence,Android"><i class="lni lni-twitter"></i></a>
                                         </li>
                                         <li>
-                                            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stackoverflow.com/&title=articleTitle&summary=AI-Netra-app-has-been-created-for-object-detection-in-real-time.-It-may-be-helpful-in-the-field-of-robotics,-security,-automated-cars,-and-surveillance-cameras.-It-can-also-be-useful-for-blind-people-to-find-objects-around-them,-also-objects-detected-in-the-vicinity-will-be-presented-in-audio-format-to"><i class="lni lni-linkedin"></i></a>
+                                            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://shivamkumarsah.github.io/AI-Netra-Website//&title=AI-Netra-:-Detect-objects-on-your-MOBILE&summary=AI-Netra-app-has-been-created-for-object-detection-in-real-time.-It-may-be-helpful-in-the-field-of-robotics,-security,-automated-cars,-and-surveillance-cameras.-It-can-also-be-useful-for-blind-people-to-find-objects-around-them,-also-objects-detected-in-the-vicinity-will-be-presented-in-audio-format-to"><i class="lni lni-linkedin"></i></a>
                                         </li>
                                     </ul>
                                 </div>

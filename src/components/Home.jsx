@@ -22,7 +22,7 @@ function Home({ data }) {
                                     <li>
                                         <a href="https://github.com/ShivamKumarSah/AI-Netra/raw/main/app-debug.apk" class="main-btn wow fadeInLeftBig" data-wow-duration="1.3s" data-wow-delay="0.8s">Download App</a></li>
                                     <li>
-                                        <Link to="https://www.youtube.com/watch?v=_P7S2lKif-A" class="header-video video-popup wow fadeInLeftBig" data-wow-duration="1.3s" data-wow-delay="1.2s"><i class="lni lni-play"></i></Link>
+                                        <Link to="https://www.youtube.com/watch?v=HZcZ1yh8bUk" class="header-video video-popup wow fadeInLeftBig" data-wow-duration="1.3s" data-wow-delay="1.2s"><i class="lni lni-play"></i></Link>
                                     </li>
                                 </ul>
                             </div>
