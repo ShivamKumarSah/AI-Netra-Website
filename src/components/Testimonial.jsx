@@ -51,10 +51,10 @@ export default function Testimonial({ data }) {
                                 </div>
                                 <div class="card_body">
                                     <h2 class="card_title">Sonali Singh</h2>
-                                    <h6 class="designation">Hi, I am on this project as a graphic designer, I worked on documentation and also helped my collegeues to make this website and mobile application.<br />I love to work with team and i am alway ready to help them.</h6>
+                                    <p class="designation">Hi, I am on this project as a graphic designer, I worked on documentation and also helped my collegeues to make this website and mobile application.<br /><br />I love to work with team and i am alway ready to help them.</p>
                                     <div class="call_btn">
-                                        <a href="/" class="btn_icon">
-                                            <i class="lni lni-linkedin-original"></i>
+                                        <a href="https://www.instagram.com/sonali__singh22/" class="btn_icon">
+                                            <i class="lni lni-instagram-filled"></i>
                                             <span class="circle"></span>
                                         </a>
                                     </div>
