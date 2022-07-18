@@ -50,6 +50,7 @@ function Footer({ data }) {
                                             <li><a href="https://www.tensorflow.org/lite/">Tflite</a></li>
                                             <li><a href="https://github.com/ShivamKumarSah/AI-Netra">Github Repo</a></li>
                                             <li><a href="https://github.com/ShivamKumarSah/AI-Netra/issues/new">Report Bug</a></li>
+                                            <li><a href="https://www.youtube.com/channel/UCsfG7-1JLLdkTemgzYWrA2w">Youtube Channel</a></li>
                                         </ul>
                                     </div>
                                     {/* <div class="footer-link-wrapper mt-45 wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.6s">
